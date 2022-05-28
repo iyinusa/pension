@@ -1,0 +1,6 @@
+/*
+* Custom CSS
+================================================== */
+.box_search{background-color:#fff; border:1px solid #ddd; padding:10px; margin-bottom:10px;}
+.box_search .bs_title{font-size:24px;}
+.box_search .bs_primary{font-size:12px; background-color:#39B3D7; color:#fff; padding:5px; font-weight:bold;}
